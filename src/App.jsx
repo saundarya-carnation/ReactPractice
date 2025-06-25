@@ -3,6 +3,7 @@ import PropsDemo from './PropsDemo';
 import StateDemo from './StateDemo';
 import EffectDemo from './EffectDemo';
 import RouterDemo from './RouterDemo';
+import MapDemo from './MapDemo';
 
 function App() {
   return (
@@ -13,6 +14,8 @@ function App() {
       <StateDemo />
       <EffectDemo />
       <RouterDemo />
+      <MapDemo />
+
     </div>
   );
 }
